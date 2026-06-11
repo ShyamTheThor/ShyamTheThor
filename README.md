@@ -5,7 +5,9 @@ Hi, I'm Shyam 👋
 🚀 Interested in Hackathons and Open Source
 
 ## Tech Stack
-Java | Python | Git | GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,mysql,vscode,html,css,js" />
+</p>
 
 ## Current Focus
 - DSA
