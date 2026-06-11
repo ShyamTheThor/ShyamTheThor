@@ -11,3 +11,6 @@ Java | Python | Git | GitHub
 - DSA
 - Machine Learning
 - Web Development
+## 🐍 Contribution Snake
+
+![Snake](https://github.com/ShyamTheThor/Shyam/blob/output/github-snake-dark.svg)
