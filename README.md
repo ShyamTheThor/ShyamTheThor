@@ -1,14 +1,77 @@
-# Hi 👋, I'm Shyam
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=250&section=header&text=Shyam&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-### Computer Science Student | AI & Machine Learning Enthusiast
+<h1 align="center">Hi 👋, I'm Shyam</h1>
 
-🎓 Computer Science Engineering Student
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+AI+Powered+Applications" />
+</p>
 
-💻 Building projects in AI, Machine Learning, and Web Development
+---
 
-🚀 Interested in Open Source, Hackathons, and Software Engineering
+## 🚀 About Me
 
-🌱 Currently learning Machine Learning, System Design, and Full-Stack Development
+I'm a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development.
+
+I enjoy building projects that solve real-world problems, exploring emerging technologies, and contributing to open-source communities.
+
+My current focus areas include:
+
+* Machine Learning
+* Retrieval-Augmented Generation (RAG)
+* System Design
+* Full-Stack Development
+* Data Structures & Algorithms
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Code Review Agent with Hindsight Memory
+
+An AI-powered code reviewer that learns from historical reviews and provides personalized feedback.
+
+**Tech Stack:** FastAPI, React, Groq, Hindsight Memory, SQLite
+
+**Highlights:**
+
+* Intelligent code review generation
+* Persistent memory system
+* Personalized feedback based on past reviews
+* Modern React dashboard
+
+---
+
+### 🎥 GPU Accelerated Human Action Recognition
+
+Fine-tuned VideoMAE on the UCF101 dataset as part of an NVIDIA H200 internship project.
+
+**Tech Stack:** Python, PyTorch, Transformers, VideoMAE
+
+**Highlights:**
+
+* Human action recognition
+* Transfer learning using VideoMAE
+* GPU benchmarking
+* NVIDIA H200 optimization
+
+---
+
+### 🎓 RAG Video Teaching Assistant
+
+An AI-powered learning assistant that converts educational videos into searchable knowledge.
+
+**Tech Stack:** Python, Whisper, Ollama, Embeddings, RAG
+
+**Highlights:**
+
+* Automatic video transcription
+* Semantic search over lecture content
+* Local embedding generation
+* Question answering with retrieved context
+* Supports long-form educational content
+
 
 ---
 
@@ -25,16 +88,20 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,mysql,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,express,mongodb,mysql,git,github,linux,vscode&perline=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyamTheThor&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamTheThor&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShyamTheThor&theme=tokyonight" />
 </p>
 
 ---
@@ -60,6 +127,20 @@
 * Participate in Hackathons
 * Strengthen DSA and Problem Solving
 * Secure a Software Engineering Internship
+* Publish technical blogs and project write-ups
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ShyamTheThor">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my projects, consider starring the repositories!
+</p>
